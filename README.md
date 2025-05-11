@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @wh04m1-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Welcome — I'm Sothea
 
-<!---
-wh04m1-dev/wh04m1-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A full-stack developer passionate about building efficient, scalable web and mobile applications.
+
+### 🚀 Tech Stack
+- **Backend**: Spring Boot, Laravel  
+- **Frontend**: Next.js, Flutter  
+- **Database**: PostgreSQL, MySQL  
+- **DevOps**: Docker, Kubernetes, Linux, CI/CD  
+
+### 🌱 Currently Learning
+Focused on mastering **DevOps Engineering** for secure, automated deployments.
+
+### 🤝 Open to Collaboration
+- Full-stack web or mobile app projects  
+- DevOps automation and infrastructure  
+
+### 📫 Get in Touch
+- **Telegram**: [@YourTelegram](https://t.me/YourTelegram)  
+- **Email**: your.email@gmail.com
